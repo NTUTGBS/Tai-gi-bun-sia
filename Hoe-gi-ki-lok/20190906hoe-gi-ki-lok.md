@@ -49,7 +49,7 @@ pun 3,4chó͘, 1 chó͘ 8ê lâng
 gêng-sin-hōe ê sî-kan, lô-má-jī kàu-ha̍k sî-kan, chiau-seng ê google toaⁿ-á
 
 #### Lô-má-jī kàu-ha̍k
-- tek-siu pài 2,3,5 ē-sái
+- tek-siu pài 2,3,5 ē-sái, mài kah "台語sa攏有" sio-lòng
 
 Oa̍h-tāng
 ----

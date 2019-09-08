@@ -2,6 +2,15 @@
 ====
 - chham-ú jîn-oân：gē-choân, tiat-iông, tiat-hông, phè-soan, tín-hō, theng-hān
 - sî-kan：1611-1755
+- kàn-pō͘ khui-hōe sî-kan chéng-lí：
+
+|           | àm-sî           | tiong-tàu         |   |   
+|-----------|-----------------|-------------------|---|
+| Tiat-iông |                 | 4 hoān-sè ē-sái   |   |
+| Phè-soan  | pài 2 bē-sái    | pài 3 ē-sái       |   |
+| Tiat-hông | pài 5 bē-sái    | pài 2, 4 ē-sái    |   |
+| Gē-choân  | pài 3 bē-sái    |                   |   |
+| Tín-hō    | pài 2, 3 bē-sái | pài 3, 4, 5 ē-sái |   |
 
 
 Siā-bū

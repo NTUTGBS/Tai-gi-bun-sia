@@ -1,7 +1,7 @@
 20190906-Hōe-gī-kì-lo̍k
 ====
-chham-ú jîn-oân：gē-choân, tiat-iông, tiat-hông, phè-soan, tín-hō, theng-hān
-sî-kan：9/6 1611-1755
+- chham-ú jîn-oân：gē-choân, tiat-iông, tiat-hông, phè-soan, tín-hō, theng-hān
+- sî-kan：1611-1755
 
 
 Siā-bū
@@ -30,8 +30,8 @@ Ha̍k-kî kui-ōe siāu-kài（15 hun-cheng）
 - + - khó-lū ê koa-chhiú：
 Gō͘-pah、O͘-miâ-toaⁿ、Kiô-á-nn̄g
 
-- + Hioh-khùn：10
-- + Tâi-gí tok0-iû：60
+- + Hioh-khùn：10 hun-cheng
+- + Tâi-gí tok0-iû：60 hun-cheng
 Siáng sī kàn-tia̍p、Tín-hō ài khì chioh 說書人
 pun 3,4chó͘, 1 chó͘ 8ê lâng
 

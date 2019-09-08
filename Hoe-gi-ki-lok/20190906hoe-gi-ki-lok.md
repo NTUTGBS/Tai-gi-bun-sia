@@ -51,14 +51,15 @@ Oa̍h-tāng
 - 1026同志大遊行＆1025校內小同遊（台島淪陷節？）
 
 
-面冊宣傳
+Bīn-chheh-soan-thoân
 ----
-- 逐个家己學台文、講台語ê經驗分享
-- 整理台語學習ê工具
-- 野球內底ê台語？
-- 台語RAP歌單
-- 台文Q&A
+1. chhiáⁿ ta̍k-ke siá ka-tī o̍h tâi-bûn, khai-sí kóng tâi-gí ê keng-giām hun-hióng
+2. chéng-lí tâi-gí ha̍k-sip ê kang-kū
+3. iá-kiû lāi-té ê tâi-gí（iah-sī kî-tha chhù-bī--ê kap tâi-gí ū koan-hē ê mi̍h-kiāⁿ）
+4. tâi-gí rap koa-toaⁿ
+5. tâi-bûn būn-tah
 
-訪談
+
+Hóng-tâm
 ----
 

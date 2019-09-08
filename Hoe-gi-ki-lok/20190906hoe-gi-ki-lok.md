@@ -17,13 +17,12 @@ Siā-bū
 ē-sái hō͘ ta̍k-ke hun-hióng ūi siáⁿ-mih siūⁿ beh o̍h tâi-gí, chhù 
 Ha̍k-kî kui-ōe siāu-kài（15 hun-cheng）
 - + Tâi-gí im-ga̍k siāu-kài（15 hun-cheng）Tiat-iông chò PPT
-
-Hêng-sek：
+- + - Hêng-sek：
 ē-sái siāu-kài kui tiâu koa kap koa-chhiú ê pōe-kéng, pí-jū kóng O͘-miâ-toaⁿ kang-chok-sit ê Tò-thè-lu iah-sī Lia̍h-kông-koa, liân-āu pàng koa hō͘ in thiaⁿ.
+Ē-sái ū 1 pha sī hō͘ siā-oân khòaⁿ tâi-gí hóe-chheⁿ-bûn kap 
 
-khó-lū ê koa-chhiú：
+- + - khó-lū ê koa-chhiú：
 Gō͘-pah、O͘-miâ-toaⁿ、Kiô-á-nn̄g
-
 
 
 浪子回頭
@@ -31,12 +30,12 @@ Gō͘-pah、O͘-miâ-toaⁿ、Kiô-á-nn̄g
 倒退嚕、掠狂歌
 台語火星文vs正字比較
 
-Hioh-khùn：10
-Tâi-gí tok0-iû：60
+- + Hioh-khùn：10
+- + Tâi-gí tok0-iû：60
 Siáng sī kàn-tia̍p、Tín-hō ài khì chioh 說書人
 pun 3,4chó͘, 1 chó͘ 8ê lâng
 
-社團聯展傳單內容：
+- ·社團聯展傳單內容：
 迎新會時間、羅馬字教學時間、招生google表單
 
 
@@ -45,14 +44,15 @@ pun 3,4chó͘, 1 chó͘ 8ê lâng
 - 羅馬字教學(tek-siu 拜235會使)
 
 
-活動
+Oa̍h-tāng
+----
 
 - 同黨劇團演出邀請
 - 1026同志大遊行＆1025校內小同遊（台島淪陷節？）
 
 
 面冊宣傳
-
+----
 - 逐个家己學台文、講台語ê經驗分享
 - 整理台語學習ê工具
 - 野球內底ê台語？
@@ -60,5 +60,5 @@ pun 3,4chó͘, 1 chó͘ 8ê lâng
 - 台文Q&A
 
 訪談
-
+----
 

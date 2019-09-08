@@ -44,7 +44,7 @@ Gō͘-pah、O͘-miâ-toaⁿ、Kiô-á-nn̄g
 Siáng sī kàn-tia̍p、Tín-hō ài khì chioh 說書人
 pun 3,4chó͘, 1 chó͘ 8ê lâng
 
-#### Siā-thoân liân-tián
+#### Siā-thoân liân-tián(9/21)
 - thoân-toaⁿ lāi-iông：
 gêng-sin-hōe ê sî-kan, lô-má-jī kàu-ha̍k sî-kan, chiau-seng ê google toaⁿ-á
 

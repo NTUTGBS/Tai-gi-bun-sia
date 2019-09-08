@@ -1,3 +1,9 @@
+20190906-Hōe-gī-kì-lo̍k
+====
+chham-ú jîn-oân：gē-choân, tiat-iông, tiat-hông, phè-soan, tín-hō, theng-hān
+sî-kan：9/6 1611-1755
+
+
 Siā-bū
 ----
 
@@ -18,37 +24,29 @@ Siā-bū
 Ha̍k-kî kui-ōe siāu-kài（15 hun-cheng）
 - + Tâi-gí im-ga̍k siāu-kài（15 hun-cheng）Tiat-iông chò PPT
 - + - Hêng-sek：
-ē-sái siāu-kài kui tiâu koa kap koa-chhiú ê pōe-kéng, pí-jū kóng O͘-miâ-toaⁿ kang-chok-sit ê Tò-thè-lu iah-sī Lia̍h-kông-koa, liân-āu pàng koa hō͘ in thiaⁿ.
+Ē-sái siāu-kài kui tiâu koa kap koa-chhiú ê pōe-kéng, pí-jū kóng O͘-miâ-toaⁿ kang-chok-sit ê Tò-thè-lu iah-sī Lia̍h-kông-koa, liân-āu pàng koa hō͘ in thiaⁿ.
 Ē-sái ū 1 pha sī hō͘ siā-oân khòaⁿ tâi-gí hóe-chheⁿ-bûn kap 
 
 - + - khó-lū ê koa-chhiú：
 Gō͘-pah、O͘-miâ-toaⁿ、Kiô-á-nn̄g
-
-
-浪子回頭
-台語RAP
-倒退嚕、掠狂歌
-台語火星文vs正字比較
 
 - + Hioh-khùn：10
 - + Tâi-gí tok0-iû：60
 Siáng sī kàn-tia̍p、Tín-hō ài khì chioh 說書人
 pun 3,4chó͘, 1 chó͘ 8ê lâng
 
-- ·社團聯展傳單內容：
-迎新會時間、羅馬字教學時間、招生google表單
+#### Siā-thoân liân-tián
+- thoân-toaⁿ lāi-iông：
+gêng-sin-hōe ê sî-kan, lô-má-jī kàu-ha̍k sî-kan, chiau-seng ê google toaⁿ-á
 
-
-開講：
-
-- 羅馬字教學(tek-siu 拜235會使)
-
+#### Lô-má-jī kàu-ha̍k
+- tek-siu pài 2,3,5 ē-sái
 
 Oa̍h-tāng
 ----
 
-- 同黨劇團演出邀請
-- 1026同志大遊行＆1025校內小同遊（台島淪陷節？）
+- 「同黨劇團」ián-chhut iau-chhiáⁿ
+- 1026 tông-chì tāi-iû-hêng＆1025tâi-tāi hāu-lāi sió-tông-iû. Tâi-tó-lûn-hām-chiat kám ū beh pān？
 
 
 Bīn-chheh-soan-thoân
